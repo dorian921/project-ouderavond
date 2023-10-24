@@ -51,6 +51,7 @@ body{
     width: 40vw;
     height: 40vh;
     background-color: #2D6401;
+    font-size: xx-large;
 
 
 }
@@ -153,14 +154,52 @@ table,th,td{
 
   #can{
     top: 22vh;
-    width: 20vh;
-    position: absolute;
+    width: 70vh;
+    right: 65vh;
+    position:absolute;
+    justify-content: center;
     }
 
     .h2naam{
         background-color: #2D6401;
         height: 80vh;
-        width: 65vh;
-        font-size: large;
+        width: 50vh;
+        font-size: x-large;
     }
     
+    .h2over{
+        width: 80vh;
+        font-size: xx-large;
+    }
+
+    .fotodor{
+        position: absolute;
+        left: 0;
+        width: 12vh;
+    }
+
+    .fotostein{
+        position: absolute;
+        left: 0;
+        width: 10vh;
+        bottom: 35vh;
+    }
+
+    #edu{
+    position: absolute;
+    top: 30vh;
+    width: 100vh;
+    right: 60vh;
+
+
+
+    }
+    
+    .adviestext{
+        background-color: #2D6401;
+        height: 80vh;
+        width: 50vh;
+        font-size: xx-large;
+        color: white;
+
+    }
